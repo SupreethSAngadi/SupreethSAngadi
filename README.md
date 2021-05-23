@@ -19,6 +19,7 @@
 <a href="https://www.hackerrank.com/chuppi_angadi">
   <img align="left" img height="20" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
+<code><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/></code>
 
 <br />
 <br />
