@@ -6,3 +6,6 @@
 <a href="https://twitter.com/AngadiSupreeth">
   <img align="left" alt="Twitter profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+<a href="https://www.facebook.com/supreeths.angadi/">
+  <img align="left" alt="Twitter profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/Facebook.svg" />
+</a>
