@@ -12,7 +12,7 @@
 <code><img height="20" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/></code>
 <code><img height="20" alt="Perl" src="https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white"/></code>
 
-<br /><br /><br />
+<br />
 
 **Social handles:**  
 
