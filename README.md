@@ -14,6 +14,12 @@
 
 <br />
 
+**Developer/Forums:**  
+
+<a href="https://www.hackerrank.com/chuppi_angadi">
+  <img align="left" alt="HackerRank" width="22px" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+</a>
+
 **Social handles:**  
 
 <a href="https://www.linkedin.com/in/supreeth-s-angadi-64843116a/">
