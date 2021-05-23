@@ -15,7 +15,6 @@
 <br />
 
 **Social handles:**  
-
 <a href="https://www.linkedin.com/in/supreeth-s-angadi-64843116a/">
   <img align="left" alt="Linkedin profile" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
